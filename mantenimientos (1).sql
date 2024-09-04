@@ -40,7 +40,7 @@ CREATE TABLE `equipos` (
 -- --------------------------------------------------------
 
 --
--- Estructura de tabla para la tabla `mantenimientos`
+-- estructura de tabla para la tabla `mantenimientos`
 --
 
 CREATE TABLE `mantenimientos` (
